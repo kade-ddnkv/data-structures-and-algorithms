@@ -1,0 +1,3 @@
+/mnt/c/Users/cyril/CLionProjects/all_contests/cmake-build-release/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/cyril/CLionProjects/all_contests/cmake-build-release/CMakeFiles/edit_cache.dir
+/mnt/c/Users/cyril/CLionProjects/all_contests/cmake-build-release/CMakeFiles/all_contests.dir

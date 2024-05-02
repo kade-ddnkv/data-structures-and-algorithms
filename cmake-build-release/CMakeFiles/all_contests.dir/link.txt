@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG   CMakeFiles/all_contests.dir/contest_algo_18/D.cpp.o  -o all_contests 

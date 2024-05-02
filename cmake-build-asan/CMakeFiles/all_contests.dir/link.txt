@@ -1,0 +1,1 @@
+/usr/bin/c++  -g -Wall -Werror -fsanitize=address,undefined -fno-sanitize-recover=all   CMakeFiles/all_contests.dir/contest_algo_18/D.cpp.o  -o all_contests 

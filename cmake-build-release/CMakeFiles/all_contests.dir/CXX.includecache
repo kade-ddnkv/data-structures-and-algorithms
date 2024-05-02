@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/cyril/CLionProjects/all_contests/contest_algo_16/E/main.cpp
+iostream
+-
+unordered_map
+-
+unordered_set
+-
+stack
+-
+queue
+-
+vector
+-
+algorithm
+-
+string
+-
+
